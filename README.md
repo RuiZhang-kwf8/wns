@@ -13,3 +13,6 @@ PHP scripts query a Sqlite db with user info stored and this info gets displayed
 ###
 To edit SSH into /etc/var/www/html/sqlitetest 
 /var/log/apache2/error.log.1 or /var/log/apache2/error.log help debug the PHP
+
+
+- Rui Zhang
